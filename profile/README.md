@@ -1,6 +1,7 @@
 # Ionic ERP - An open source ERP
 
 Our official portal [https://ionicerp.com](https://ionicerp.com).
+Documentation portal: [link](https://ionicerp.notion.site/ionicerp/IonicERP-Documentation-ba9d03f37821458e87089923096bd7b7).
 
 - Host and run an open source ERP on [firebase](https://firebase.google.com/).
 - Ready to use ERP module by industry practices.
