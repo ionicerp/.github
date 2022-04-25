@@ -16,7 +16,20 @@
 - Manufactoring ![Status: Planning](https://img.shields.io/badge/Status-Planning-blue)
 - Service Management ![Status: Planning](https://img.shields.io/badge/Status-Planning-blue)
 
-## Contribution
+## Contributing
+
+### Contributing Guidelines
+
+Read through our [contributing guidelines][contributing] to learn about our submission process, coding rules and more.
+
+### Want to Help?
+
+Want to report a bug, contribute some code, or improve documentation? Excellent! Read up on our guidelines for [contributing][contributing] and then check out one of our issues.
+
+### Code of Conduct
+
+Help us keep Angular open and inclusive. Please read and follow our [Code of Conduct][codeofconduct].
+
 
 ## Status
 This repository is maintained by B2All Solution community engineer; sponsored and funded by Sissons Paints Malaysia.
