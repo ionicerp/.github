@@ -36,7 +36,7 @@ Help us keep Angular open and inclusive. Please read and follow our [Code of Con
 
 ## Status
 
-This repository is maintained by B2All Solution software engineer; sponsored and funded by Sissons Paints Malaysia.
+This repository is maintained by [B2All Solution](https://b2allsolution.com) software engineer; sponsored and funded by Sissons Paints Malaysia.
 
 ## Funding
 
