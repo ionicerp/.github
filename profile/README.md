@@ -1,10 +1,10 @@
 # Ionic ERP - An open source ERP
 
-Our official portal [https://ionicerp.com](https://ionicerp.com).
-Documentation portal: [link](https://ionicerp.notion.site/ionicerp/IonicERP-Documentation-ba9d03f37821458e87089923096bd7b7).
-
 - Host and run an open source ERP on [firebase](https://firebase.google.com/).
 - Ready to use ERP module by industry practices.
+
+Our official portal [https://ionicerp.com](https://ionicerp.com)  
+Documentation portal: [link](https://ionicerp.notion.site/ionicerp/IonicERP-Documentation-ba9d03f37821458e87089923096bd7b7)  
 
 ## The open source ERP
 - System Foudation ![Status: Planning](https://img.shields.io/badge/Status-Planning-blue)
@@ -34,6 +34,9 @@ Want to report a bug, contribute some code, or improve documentation? Excellent!
 
 Help us keep Angular open and inclusive. Please read and follow our [Code of Conduct][codeofconduct].
 
+
+## Community
+[Slack](https://ionicerp.slack.com)
 
 ## Status
 
