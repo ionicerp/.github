@@ -2,8 +2,8 @@
 
 Our official portal [https://ionicerp.com](https://ionicerp.com).
 
-- Host and run an open source ERP on firebase
-- Ready to use ERP module by industry practices
+- Host and run an open source ERP on [firebase](https://firebase.google.com/).
+- Ready to use ERP module by industry practices.
 
 ## The open source ERP
 - System Foudation ![Status: Planning](https://img.shields.io/badge/Status-Planning-blue)
@@ -35,9 +35,16 @@ Help us keep Angular open and inclusive. Please read and follow our [Code of Con
 
 
 ## Status
+
 This repository is maintained by B2All Solution software engineer; sponsored and funded by Sissons Paints Malaysia.
 
 ## Funding
+
+It's is pre-set to multiply of RM100. Thank you for your support!
+
+[One off support](https://buy.stripe.com/fZe1541Rx6OZ9Y4288).
+
+[Long term support](https://buy.stripe.com/6oEbJIcwb5KVc6c6op).
 
 
 [contributing]: CONTRIBUTING.md
