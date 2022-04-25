@@ -35,3 +35,7 @@ Help us keep Angular open and inclusive. Please read and follow our [Code of Con
 This repository is maintained by B2All Solution community engineer; sponsored and funded by Sissons Paints Malaysia.
 
 ## Funding
+
+
+[contributing]: CONTRIBUTING.md
+[codeofconduct]: CODE_OF_CONDUCT.md
