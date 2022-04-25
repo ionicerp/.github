@@ -1,4 +1,7 @@
-# Ionic ERP
+# Ionic ERP - An open source ERP
+
+![https://ionicerp.com](https://ionicerp.com)
+
 - Host and run an open source ERP on firebase
 - Ready to use ERP module by industry practices
 
@@ -32,7 +35,7 @@ Help us keep Angular open and inclusive. Please read and follow our [Code of Con
 
 
 ## Status
-This repository is maintained by B2All Solution community engineer; sponsored and funded by Sissons Paints Malaysia.
+This repository is maintained by B2All Solution software engineer; sponsored and funded by Sissons Paints Malaysia.
 
 ## Funding
 
