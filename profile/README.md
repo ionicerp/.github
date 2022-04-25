@@ -40,7 +40,7 @@ This repository is maintained by [B2All Solution](https://b2allsolution.com) sof
 
 ## Funding
 
-It's is pre-set to multiply of RM100. Thank you for your support!
+It's is pre-set to multiply of MYR 100. Thank you for your support!
 
 [One off support](https://buy.stripe.com/fZe1541Rx6OZ9Y4288).
 
